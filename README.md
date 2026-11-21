@@ -6,7 +6,7 @@ dwm-scrollview brings a continuous scrolling ribbon layout and an interactive wo
 
 ## Contents
 - [About](#about)
-- [Recommended Patches](#recommended-patches)
+- [Recommended](#recommended)
 - [Key Modes](#key-modes)
 - [Centering Modes](#centering-modes)
 - [Keybindings](#keybindings)
